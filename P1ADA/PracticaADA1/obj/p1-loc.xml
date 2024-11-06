@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/pila_acotada.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/pila_acotada.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 19" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/pila_acotada.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/p1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 3" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/p1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 50" line=" 21" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/p1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 30" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/p1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 50" line=" 21" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/p1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 12" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/pila_acotada.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 17" line=" 20" >
+      <vfs_project>/home/david/Escritorio/ADA/PracticaADA1/p1.gpr</vfs_project>
+      <vfs_file>/home/david/Escritorio/ADA/PracticaADA1/src/pila_acotada.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file  />
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/home/JoseMaria/Compartida/STR_ADA/Pr#195;#161;ctica ADA 4/Practica ADA 4/src/p4.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
